@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# AWS
+*.pem
+*.p12
+*.crt
+*.cer
+*.pem
+*.key
+*.json
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local development
+*.log
+
+# Sensitive data
+*.pem
+*.p12
+*.crt
+*.cer
+*.key
+*.json
+
+# Screenshots
+screenshots/
